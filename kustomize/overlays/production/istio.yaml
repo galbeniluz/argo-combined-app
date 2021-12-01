@@ -9,7 +9,7 @@ spec:
   - argo-combined-app
   hosts:
   - argo-combined-app.local
-  - argo-combined-app.34.142.53.77.nip.io
+  - argo-combined-app.34.116.131.68.nip.io
   http:
   - name: primary
     route:
